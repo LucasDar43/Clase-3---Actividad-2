@@ -5,6 +5,11 @@
         static void Main(string[] args)
         {
 
+            /*
+            2)	Escriba un programa que permita calcular las raíces de una ecuación de segundo grado. 
+                La formula es:  (- b  √b2 – 4 ac) / 2a. Nota: el programa también debe mostrar raíces complejas.
+            */
+            
                 Console.WriteLine("Ingrese el valor de a: ");
                 double a;
 
